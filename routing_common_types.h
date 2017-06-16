@@ -1,7 +1,7 @@
 /**
  *  \file   routing_common_types.h
- *  \brief  Common Variables and Types for the Routing Protocols: AODV, OLSR, etc.
- *  \author Elyes Ben Hamida (QMIC)
+ *  \brief  Common Types for all Routing Protocols
+ *  \author Dhafer Ben Arbia & Elyes Ben Hamida
  *  \date   March 2015
  **/
  
