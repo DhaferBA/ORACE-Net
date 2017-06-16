@@ -1,7 +1,7 @@
 /**
  *  \file   routing_neighbors_management.c
  *  \brief  Neighbor Management Source Code File
- *  \author Elyes Ben Hamida (QMIC)
+ *  \author Dhafer Ben Arbia & Elyes Ben Hamida
  *  \date   March 2015
  **/
  
