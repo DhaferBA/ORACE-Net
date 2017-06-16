@@ -1,7 +1,7 @@
 /**
  *  \file   routing_neighbors_management.h
  *  \brief  Neighbor Management Header File
- *  \author Elyes Ben Hamida (QMIC)
+ *  \author Dhafer Ben Arbia & Elyes Ben Hamida
  *  \date   March 2015
  **/
 #ifndef  __routing_neighbors_management__
