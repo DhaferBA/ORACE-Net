@@ -1,7 +1,7 @@
 /**
  *  \file   routing_route_management.h
  *  \brief  Route Management Header File
- *  \author Dhafer Ben Arbia & Elyes Ben Hamida
+ *  \author Elyes Ben Hamida (QMIC)
  *  \date   March 2015
  **/
 #ifndef  __routing_route_management__

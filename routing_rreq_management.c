@@ -1,7 +1,7 @@
 /**
  *  \file   routing_rreq_management.c
  *  \brief  AODV RREQ/RREP Management Source to0de File
- *  \author Dhafer Ben Arbia & Elyes Ben Hamida
+ *  \author Elyes Ben Hamida (QMIC)
  *  \date   March 2015
  **/
 #include <stdio.h>
